@@ -1,4 +1,4 @@
-## Rending Arrays of Fields and Mapping State to arrays
+## Rendering Arrays of Fields and Mapping State to Arrays
 
 This React app shows a couple of concepts:
 
